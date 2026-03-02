@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/xuxu1/:/",
-    "/content/xuxu1/configuration:/.helix/config.json",
-    "/content/xuxu1/metadata:/metadata.json"
+    "/content/xxm-eds-site/:/",
+    "/content/xxm-eds-site/configuration:/.helix/config.json",
+    "/content/xxm-eds-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xuxu1/"
+    "/content/xxm-eds-site/"
   ]
 }
